@@ -3,7 +3,7 @@ Isomorphic Sequencer for monome norns and grid
 
 ## What it is
 
-ISOSEQ is 16 step, 16 page/measure sequencer laid out in a isomorphic pattern (think bass guitar).  All pages have the same set of scales.  Each row follows the Chromatic scale (12-note, half-tone Western).  Each row is a Perfect 4th apart, starting at the bottom.  The grid row closest to the player has the lowest pitches and the row furthest from the player has the highest pitches.  
+ISOSEQ is 16 step, 16 page/measure sequencer laid out in an isomorphic pattern.  All pages have the same set of scales.  Each row follows the Chromatic scale (12-note, half-tone Western).  Each row is a Perfect 4th apart, starting at the bottom.  The grid row closest to the player has the lowest pitches and the row furthest from the player has the highest pitches.  
 
 ISOSEQ has 3 modes: pause, seq on, and edit.  In edit mode, the player can either edit a sequence on the displayed page, or s/he can play the notes in real time.
 
