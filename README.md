@@ -20,6 +20,7 @@ All encoders work the same on each page:
 - ENC 1 changes display pages
 - ENC 2 always adjusts items in the left column
 - ENC 3 always adjusts items in the right column
+- Hold ALT (KEY 1) to adjust items on 2nd row
 
 Keys work differently based upon the config page displayed:
 
