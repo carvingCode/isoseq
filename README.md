@@ -1,5 +1,5 @@
 # ISOSEQ 16
-Isomorphic Sequencer for monome norns and grid
+Isomorphic Sequencer for monome norns and grid. For norns v2.
 
 ## What it is
 
