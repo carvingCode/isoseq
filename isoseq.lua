@@ -1,18 +1,6 @@
---
--- :: ISOSEQ 16 ::
---
--- Isomorphic keyboard,
--- 16-page sequencer.
---
--- Documentation and 
--- updates at:
---
--- https://github.com/
--- carvingCode/isoseq
---
--- v1.0 (033019)
---
-
+-- scriptname: ISOSEQ 16
+-- v1.0.0: @carvingcode
+-- https://llllllll.co/t/isoseq/21026
 
 --
 -- vars
