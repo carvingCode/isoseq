@@ -1,6 +1,11 @@
 # ISOSEQ 16
 Isomorphic Sequencer for monome norns and grid. For norns v2.
 
+## Install
+
+- Download and unpack
+- Copy 'isoseq' folder into your norns 'code' folder
+
 ## What it is
 
 ISOSEQ is 16 step, 16 page/measure sequencer laid out in an isomorphic pattern.  All pages have the same set of scales.  Each row follows the Chromatic scale (12-note, half-tone Western).  Each row is a Perfect 4th apart, starting at the bottom.  The grid row closest to the player has the lowest pitches and the row furthest from the player has the highest pitches.  
