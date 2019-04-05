@@ -1,3 +1,9 @@
+--
+--  i can never focus
+--  on the equations 
+--  and logarithms 
+--
+--
 -- scriptname: ISOSEQ 16
 -- v1.0.0: @carvingcode
 -- https://llllllll.co/t/isoseq/21026
@@ -7,7 +13,7 @@
 --
 
 engine.name = 'Passersby'
-local Passersby = require "we/lib/passersby"
+local Passersby = require "passersby/lib/passersby_engine"
 
 local app_title = "ISOSEQ 16"
 
@@ -154,7 +160,7 @@ end
 
 local function save_pattern(index)
   local pattern = {
-    name = os.date("%b %d %H:%M"),
+    name = "Pattern "..index,
     bpm = params:get("bpm"),
 
     root_num = root_num,
@@ -806,9 +812,6 @@ function init()
 			screen_dirty = true
     	end
 	end
-    
--- rotate test grid
-	--grid_device:rotation(2)
 
   -- UI
   
